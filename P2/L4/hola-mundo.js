@@ -1,4 +1,4 @@
-//--EJEMPLO HOLA MUNDO. Comentario
+//--EJEMPLO HOLA MUNDO. Comento
 /* Este es otro tipo de
 comentario multilinea */
-console.log("Hola mundo!!!");
+console.log("hola mundo!!");
