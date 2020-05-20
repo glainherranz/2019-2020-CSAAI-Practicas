@@ -17,28 +17,28 @@ h2{
 
 p {
     text-align: center;
-    background-color: pink;
+    background-color: yellow;
 }
 
 button {
     margin: 9px;
     padding: 20px 20px;
-    font-size: 18px;
-    border-radius: 60px;
-    background-color: blue;
+    font-size: 30px;
+    border-radius: 90px;
+    background-color: green;
 }
 
 
 
 .calculadora {
     text-align: center;
-    background-color:rgba(110, 30, 90 ,0.5);
-    border: 20px blue dashed;
+    background-color:rgba(30, 90, 30 ,0.5);
+    border: 10px brown dashed;
     width: auto;
     margin-left: auto;
     margin-right: auto;
-    border-bottom-left-radius:70px ;
-    border-bottom-right-radius:70px;
+    border-bottom-left-radius:120px ;
+    border-bottom-right-radius:120px;
     padding: 50px;
     width: 500px;
 }
